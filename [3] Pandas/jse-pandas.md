@@ -48,5 +48,5 @@ Windows/Mac/Linux computer
 
 ### Software Pre-requisites:
 * Visual Studio Code
-* Browser (MS Edge/Safari/Google Chrome or any browser of your choice)
+* Browser (Edge/Safari/Google Chrome or any browser of your choice)
 
